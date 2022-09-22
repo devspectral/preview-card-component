@@ -1,11 +1,10 @@
 import React from 'react';
+import MainComponent from './components/MainComponent';
 
 function App() {
   return (
-    <>
-      <h1 className="font-bols underline">Hello World</h1>
-    </>
-  );
+    <MainComponent />
+  )
 }
 
 export default App;
