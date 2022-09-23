@@ -7,7 +7,7 @@ interface Props {
 const Button = ({ btnColor }: Props) => {
     return (
         <>
-            <button className={`${btnColor} hover:bg-gray-400 transition w-36 bg-white font-bold py-2 px-4 rounded-full`}>
+            <button className={`${btnColor} hover:bg-gray-300 transition w-36 bg-white font-bold py-2 px-4 rounded-full`}>
                 Learn More
             </button>
         </>

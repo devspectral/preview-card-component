@@ -7,7 +7,7 @@ import icon3 from '../assets/images/icon-luxury.svg'
 
 const Cards = () => {
     return (<>
-        <div className='justify-center items-center p-4 text-white'>
+        <div className='justify-center items-center p-4 text-gray-100 text-[15px]'>
             <div className='w-full m-2 flex lg:flex-row flex-col'>
                 <div className='h-[32rem] w-[20rem] bg-[#e38826] p-10'>
                     {/* icon */}
