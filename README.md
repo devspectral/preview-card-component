@@ -1,7 +1,7 @@
 3-column preview card component from frontendmentor.io
 
-React
-Typescript
-Tailwind
+* React
+* Typescript
+* TailwindCSS
 
 
